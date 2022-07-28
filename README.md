@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - Easybank landing page solution
 
-You can use the [editor on GitHub](https://github.com/Amaefula-Joel/Easybank-landing-page-Frontend-Mentor-Challenge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### The challenge
 
-# Header 1
-## Header 2
-### Header 3
+Users should be able to:
 
-- Bulleted
-- List
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Links
 
-### Jekyll Themes
+- Solution URL: (https://github.com/Amaefula-Joel/Easybank-landing-page-Frontend-Mentor-Challenge)
+- Live Site URL: (https://amaefula-joel.github.io/Easybank-landing-page-Frontend-Mentor-Challenge/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amaefula-Joel/Easybank-landing-page-Frontend-Mentor-Challenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Built with
 
-### Support or Contact
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+- Mobile-first workflow
+- SASS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### What I learned
+
+This was my first time using a mobile-first approach in a large project like this one.
+So i hope to use this more in my future projects.
+
+I also saw it as a challenge to change the hover state of the svg image links in the footer.
+But i found a way out through that.
+
+### Continued development
+
+The Hero image isn't perfect on the destop view, so this is something i would like to perfect.
+
+## Author
+
+- Website - [Joel Amaefula](https://www.mrjoelly.chinyproductions.com.ng)
+- Frontend Mentor - [@Amaefula-joel](https://www.frontendmentor.io/profile/amaefulajoel)
+
+## Acknowledgments
+
+Mostly to Stackoverflow and Google for providing answers to my questions
